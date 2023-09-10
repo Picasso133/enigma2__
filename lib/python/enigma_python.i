@@ -55,6 +55,7 @@ is usually caused by not marking PSignals as immutable.
 #include <lib/hisi/HA.AUDIO.DOLBYMS12EXT.decode.h>
 #include <lib/hisi/HA.AUDIO.DOLBYPLUS.decode.h>
 #include <lib/hisi/HA.AUDIO.DOLBYTRUEHD.decode.h>
+#include <lib/hisi/HA.AUDIO.DRA.decode.h>
 #include <lib/hisi/HA.AUDIO.DTSHD.decode.h>
 #include <lib/hisi/HA.AUDIO.DTSM6.decode.h>
 #include <lib/hisi/HA.AUDIO.DTSPASSTHROUGH.decode.h>
@@ -322,6 +323,7 @@ typedef long time_t;
 %include <lib/hisi/HA.AUDIO.DOLBYMS12EXT.decode.h>
 %include <lib/hisi/HA.AUDIO.DOLBYPLUS.decode.h>
 %include <lib/hisi/HA.AUDIO.DOLBYTRUEHD.decode.h>
+%include <lib/hisi/HA.AUDIO.DRA.decode.h>
 %include <lib/hisi/HA.AUDIO.DTSHD.decode.h>
 %include <lib/hisi/HA.AUDIO.DTSM6.decode.h>
 %include <lib/hisi/HA.AUDIO.DTSPASSTHROUGH.decode.h>
