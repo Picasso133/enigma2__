@@ -19,6 +19,7 @@ hisiinclude_HEADERS = \
         hisi/HA.AUDIO.DOLBYMS12EXT.decode.h \
         hisi/HA.AUDIO.DOLBYPLUS.decode.h \
         hisi/HA.AUDIO.DOLBYTRUEHD.decode.h \
+	hisi/HA.AUDIO.DRA.decode.h \
         hisi/HA.AUDIO.DTSHD.decode.h \
         hisi/HA.AUDIO.DTSM6.decode.h \
         hisi/HA.AUDIO.DTSPASSTHROUGH.decode.h \
