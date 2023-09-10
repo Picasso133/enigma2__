@@ -69,15 +69,9 @@ typedef struct
 
 #endif /* __HISI_AUDIO_DECODER_MP3_H__ */
 
-iff -Naur a/lib/hisi/HA.AUDIO.OPUS.codec.h b/lib/hisi/HA.AUDIO.OPUS.codec.h
--- a/lib/hisi/HA.AUDIO.OPUS.codec.h	1970-01-01 01:00:00.000000000 +0100
-++ b/lib/hisi/HA.AUDIO.OPUS.codec.h	2021-11-02 11:53:28.000000000 +0100
-@ -0,0 +1,63 @@
 #ifndef __HA_AUDIO_OPUS_CODEC_H__
 #define __HA_AUDIO_OPUS_CODEC_H__
 
-#include "hi_type.h"
-#include "hi_audio_codec.h"
 
 #ifdef __cplusplus
 #if __cplusplus
