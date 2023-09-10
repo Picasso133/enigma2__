@@ -3,11 +3,11 @@ noinst_LIBRARIES += hisi/libenigma_hisi.a
 hisi_libenigma_hisi_a_SOURCES = \
         hisi/hi_adp_hdmi.c \
         hisi/hi_adp_ini.c \
-        hisi/hi_adp_mpi.c \
+        hisi/hi_adp_mpi.c 
 
 hisiincludedir = $(pkgincludedir)/lib/hisi
 hisiinclude_HEADERS = \
-	      hisi/HA.AUDIO.AAC.decode.h \
+	hisi/HA.AUDIO.AAC.decode.h \
         hisi/HA.AUDIO.AAC.encode.h \
         hisi/HA.AUDIO.AC3PASSTHROUGH.decode.h \
         hisi/HA.AUDIO.AMRNB.codec.h \
@@ -114,5 +114,5 @@ hisiinclude_HEADERS = \
         hisi/hi_unf_vp.h \
         hisi/hi_unf_wdg.h \
         hisi/hi_user_proc.h \
-        hisi/hi_video_codec.h \
+        hisi/hi_video_codec.h 
         
