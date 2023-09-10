@@ -85,10 +85,6 @@ do{ HI_S32 i; \
 
 #endif /* __HISI_AUDIO_DECODER_TRUEHD_H__ */
 
-iff -Naur a/lib/hisi/HA.AUDIO.DRA.decode.h b/lib/hisi/HA.AUDIO.DRA.decode.h
--- a/lib/hisi/HA.AUDIO.DRA.decode.h	1970-01-01 01:00:00.000000000 +0100
-++ b/lib/hisi/HA.AUDIO.DRA.decode.h	2021-11-02 11:53:28.000000000 +0100
-@ -0,0 +1,93 @@
 /******************************************************************************
  Copyright (C), 2001-2011, Hisilicon Tech. Co., Ltd.
  ******************************************************************************
